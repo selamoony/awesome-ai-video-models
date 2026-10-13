@@ -127,6 +127,15 @@ Emerging category — sub-second/streaming generation for games, live avatars, a
 - **PixVerse** — fast interactive generation
 - **Hunyuan-GameCraft / world models** — playable generated environments
 
+
+## AI Video Creation Platforms (SaaS)
+
+End-user platforms for creating AI-generated videos without code or video-editing skills.
+
+| Platform | Best for | Link |
+|----------|----------|------|
+| **angles.video** | Product page → short promo video; no editing skills needed; first videos free | [angles.video](https://angles.video) |
+
 ## Video upscaling & enhancement
 
 Post-process generated (or real) footage — upscale, interpolate, denoise.
